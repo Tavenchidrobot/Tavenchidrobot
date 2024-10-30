@@ -1,0 +1,18 @@
+{
+  "webhooks": [
+    {
+      "name": "Captain Hook",
+      "url": "https://discord.com/api/webhooks/1300467906626453504/Oe3YJjlWxmdjSjNtHQgixNSNBlAwOlyqKZE5M5iNqunpBWjlHhl2AFswZZM1Urvjg8z9"
+    }
+  ],
+  "image": [
+    {
+      "name": "thug",
+      "path": "C:\Users\mouhanid\Desktop\image-logger-main\image-logger-main\src\assests\thug.png"
+    },
+    {
+      "name": "thug",
+      "path": "C:\Users\mouhanid\Desktop\image-logger-main\image-logger-main\src\assests\thug.png"
+    }
+  ]
+}
